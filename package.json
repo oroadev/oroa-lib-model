@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oroadev/oroa-lib-model.git"
+    "url": "git+https://github.com/oroadev/oroa.lib.model.git"
   },
   "author": "Omar Roa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oroadev/oroa-lib-model/issues"
+    "url": "https://github.com/oroadev/oroa.lib.model/issues"
   },
-  "homepage": "https://github.com/oroadev/oroa-lib-model#readme"
+  "homepage": "https://github.com/oroadev/oroa.lib.model#readme"
 }

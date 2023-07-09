@@ -1,2 +1,2 @@
-# oroa-lib-model
+# oroa.lib.model
 Base model for application
