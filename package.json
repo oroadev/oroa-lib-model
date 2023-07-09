@@ -1,0 +1,20 @@
+{
+  "name": "@oroa/models",
+  "version": "1.0.0",
+  "description": "Base model for application",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oroadev/oroa-lib-model.git"
+  },
+  "author": "Omar Roa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oroadev/oroa-lib-model/issues"
+  },
+  "homepage": "https://github.com/oroadev/oroa-lib-model#readme"
+}
