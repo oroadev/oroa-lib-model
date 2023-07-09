@@ -1,6 +1,6 @@
 {
   "name": "@oroa/models",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base model for application",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
